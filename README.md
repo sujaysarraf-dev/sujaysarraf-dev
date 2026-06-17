@@ -2,7 +2,7 @@
 
 **Full-stack developer | Building cool stuff**
 
-🌱 **Currently learning:** Go & Rust  
+🌱 **Learning:** Go, Rust, TypeScript  
 🔭 **Working on:** Open source tools & automation  
 💬 **Ask me about:** Web dev, APIs, DevOps
 
