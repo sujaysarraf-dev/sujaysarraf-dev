@@ -2,7 +2,8 @@
 
 **Full-stack developer | Building cool stuff**
 
-🌱 **Currently learning:** Go & Rust
+🌱 **Currently learning:** Go & Rust  
+🔭 **Working on:** Open source tools
 
 ### 🏆 GitHub Achievements
 
