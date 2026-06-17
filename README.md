@@ -2,6 +2,8 @@
 
 **Full-stack developer | Building cool stuff**
 
+🌱 **Currently learning:** Go & Rust
+
 ### 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sujaysarraf-dev&theme=darkhub&margin-w=15&margin-h=15&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
